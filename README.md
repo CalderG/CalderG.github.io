@@ -1,12 +1,12 @@
 # Prior Projects/Contributions
 
 * ## Colon Cancer Survival Analysis:
-  * https://github.com/CalderG/SurvivalAnalysis175Proj
+  * [Survival Analysis Class Project](https://github.com/CalderG/SurvivalAnalysis175Proj)
 
 * ## College Recommendation System:
-  * https://github.com/CalderG/CollegeRecommendationSite
+  * [College Recommendation System](https://github.com/CalderG/CollegeRecommendationSite)
 
 * ## Car Auction Price Predictions with Machine Learning Algorithms:
-  * https://github.com/CalderG/Car-Price-Machine-Learning-Project
+  * [Car Auction Price Predictions](https://github.com/CalderG/Car-Price-Machine-Learning-Project)
 
   
